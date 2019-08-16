@@ -1,2 +1,2 @@
 # spring-boot-analysis
-:rocket: spring boot source code analysis
+:art: spring boot source code analysis
